@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+In Nov 2019 a demo project to show different kind of python command understanding for a Udacity project
 
 ### Project Title
-Replace the Project Title
+bikeshare.py
 
 ### Description
-Describe what your project is about and what it does
+Looks at the data for bikeshare of key US cities and calculates summary statistics based on inputs provided
 
 ### Files used
-Include the files used
+ bike share open source data
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity data
 
